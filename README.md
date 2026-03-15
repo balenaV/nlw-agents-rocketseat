@@ -6,4 +6,4 @@ Projeto WEB do imersivo NLW Agents da Rocketseat
 
 Veja o projeto funcionando no GitHub Pages:
 
-👉 [https://balenaV.github.io/NLW-Agents/](https://balenaV.github.io/NLW-Agents/)
+👉 [https://balenaV.github.io/nlw-agents-rocketseat/](https://balenaV.github.io/nlw-agents-rocketseat/)
